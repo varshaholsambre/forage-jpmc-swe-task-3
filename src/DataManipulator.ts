@@ -3,6 +3,7 @@ import { ServerRespond } from './DataStreamer';
 export interface Row {
   // price_abc: number,
   // price_def: number,
+  //x
   ratio: number,
   timestamp: Date,
   upper_bound: number,
